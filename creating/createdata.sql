@@ -1,3 +1,4 @@
+-- drop table sake;
 -- psql -d sake -f ./creating/createdata.sql;
 
 CREATE TABLE sake (
